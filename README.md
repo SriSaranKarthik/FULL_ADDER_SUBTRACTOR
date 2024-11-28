@@ -38,9 +38,7 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
-![image](https://github.com/user-attachments/assets/b66c8481-39f2-4588-a0e4-35de3bfcf700)
-
-![image](https://github.com/user-attachments/assets/c8068d60-34b0-4482-b103-ab098a498c93)
+![image](https://github.com/user-attachments/assets/197a9ac1-94c5-4e3d-bcd0-4573d4d08a61)
 
 **Procedure**
 Write the detailed procedure here
@@ -56,10 +54,11 @@ input combinations generate the timing diagram.
 /* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by:K.SriSaran Karthik RegisterNumber:24007192
 */
 
+
+
 **RTL Schematic**
 
 ![image](https://github.com/user-attachments/assets/b3c91bde-2712-41be-91b6-937058ab9627)
-
 
 **Output Timing Waveform**
 
